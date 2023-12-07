@@ -716,13 +716,19 @@ h3 {
     padding: 0;
 }
 .slider_bg_1 {
-    background-image: url(../img/banner/ban1.jpeg);
+    background-image: url(../img/banner/banner.png);
 }
 .slider_bg_2 {
-    background-image: url(../img/banner/ban2.jpeg);
+    background-image: url(../img/banner/banner1.png);
 }
 .slider_bg_3 {
-    background-image: url(../img/banner/ban3.jpeg);
+    background-image: url(../img/banner/banner2.png);
+}
+.slider_bg_4 {
+    background-image: url(../img/banner/banner3.png);
+}
+.slider_bg_5 {
+    background-image: url(../img/banner/banner4.png);
 }
 .slider_area .single_slider {
     height: 100vh;
@@ -1225,7 +1231,7 @@ h3 {
 }.forQuery .Query_border .phone_num a {
     background: #009DFF;
     color: #fff;
-    padding: 12px 53px;
+    padding: 12px 31px;
     border-radius: 30px;
     display: inline-block;
     font-size: 18px;
